@@ -13,9 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is the first challenge and it's a simple responsive widget.
 
 ### Screenshot
-Desktop solution
+#### Desktop solution
 ![](./images/desktop.png)
-Mobile Solution
+#### Mobile Solution
 ![](./images/mobile.png)
 
 ### Links
