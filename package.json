@@ -3,11 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://acr1209.github.io/qr-code-frontend-mentor/",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
